@@ -1,0 +1,23 @@
+<!-- app/src/main/res/drawable/ic_navio.xml -->
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Cincin/kompas luar -->
+    <path
+        android:pathData="M12,2a10,10 0,1 1,0,20a10,10 0,1 1,0,-20"
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Jarum/arrow -->
+    <path
+        android:pathData="M12,6 L14.8,14.8 L12,13 L9.2,14.8 Z"
+        android:fillColor="#FFFFFFFF" />
+
+</vector>
