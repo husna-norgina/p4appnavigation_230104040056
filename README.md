@@ -1,7 +1,6 @@
 # 🚀 Navio Application
 
-Aplikasi ini dibuat untuk **Praktikum P4 – Menggunakan Navigasi Aplikasi** 
-Mata kuliah **Pemrograman Mobile**, di bawah bimbingan **Bapak Muhayat, M.IT**.  
+Aplikasi ini dibuat untuk **Praktikum P4 – Menggunakan Navigasi Aplikasi** pada mata kuliah **Pemrograman Mobile**, di bawah bimbingan **Bapak Muhayat, M.IT**.  
 Tujuan utama proyek ini adalah mempraktikkan konsep navigasi antar layar di Android  menggunakan **Intent eksplisit** dan **Jetpack Compose Navigation** secara modern dan efisien.
 
 ---
