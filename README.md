@@ -1,10 +1,11 @@
-🚀 Navio – Navigasi Aplikasi Android (Praktikum P4)
+# 🚀 Navio – Navigasi Aplikasi Android (Praktikum P4)
 
 Aplikasi Navio dibuat untuk mempraktikkan navigasi antar layar di Android menggunakan Intent dan Jetpack Compose Navigation.
 Proyek ini merupakan bagian dari praktikum ke-4 mata kuliah Pemrograman Mobile.
 
+---
 
-✨ Fitur Utama
+## ✨ Fitur Utama
 
 Navigasi antar Activity menggunakan explicit intent.
 
@@ -22,8 +23,9 @@ Tema adaptif (Light / Dark / System).
 
 Penyimpanan preferensi dengan DataStore.
 
+---
 
-🧩 Teknologi yang Digunakan
+## 🧩 Teknologi yang Digunakan
 
 Android Studio Narwhal | 2025.1.1
 
@@ -33,8 +35,9 @@ Material 3 Components
 
 Navigation Compose
 
+---
 
-🧠 Konsep yang Dipelajari
+## 🧠 Konsep yang Dipelajari
 
 Intent dan Intent Extras
 
@@ -50,8 +53,9 @@ Material Design 3 Implementation
 
 Data Persistence (DataStore)
 
+---
 
-👩‍💻 Pengembang
+## 👩‍💻 Pengembang
 
 Husna Norgina
 
