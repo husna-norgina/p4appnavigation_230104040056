@@ -3,6 +3,7 @@
 Aplikasi Navio dibuat untuk mempraktikkan navigasi antar layar di Android menggunakan Intent dan Jetpack Compose Navigation.
 Proyek ini merupakan bagian dari praktikum ke-4 mata kuliah Pemrograman Mobile.
 
+
 ✨ Fitur Utama
 
 Navigasi antar Activity menggunakan explicit intent.
@@ -21,6 +22,7 @@ Tema adaptif (Light / Dark / System).
 
 Penyimpanan preferensi dengan DataStore.
 
+
 🧩 Teknologi yang Digunakan
 
 Android Studio Narwhal | 2025.1.1
@@ -30,6 +32,7 @@ Kotlin + Jetpack Compose
 Material 3 Components
 
 Navigation Compose
+
 
 🧠 Konsep yang Dipelajari
 
@@ -46,6 +49,7 @@ Jetpack Compose Navigation Graph
 Material Design 3 Implementation
 
 Data Persistence (DataStore)
+
 
 👩‍💻 Pengembang
 
