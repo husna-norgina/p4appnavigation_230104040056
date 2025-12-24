@@ -88,40 +88,40 @@ Struktur aplikasi modular dengan **Bottom Navigation** yang menampung beberapa F
 Berikut merupakan hasil implementasi aplikasi **Navio** pada **Praktikum 4 – Menggunakan Navigasi Aplikasi**:
 
 **Gambar 1.** Screen Utama (Homescreen.kt)
-![Screen Utama](evidence/1.%20Screen%20Utama%20\(Homescreen.kt\).jpg)
+![Screen Utama](evidence/1.%20Screen%20Utama%20(Homescreen.kt).jpg)
 
 **Gambar 2.** Screen Activity A (ActivityA_B.kt)
-![Screen Activity A](evidence/2.%20Screen%20Activity%20A%20\(ActivityA_B.kt\).jpg)
+![Screen Activity A](evidence/2.%20Screen%20Activity%20A%20(ActivityA_B.kt).jpg)
 
 **Gambar 3.** Screen Activity B (ActivityA_B.kt)
-![Screen Activity B](evidence/3.%20Screen%20Activity%20B%20\(ActivityA_B.kt\).jpg)
+![Screen Activity B](evidence/3.%20Screen%20Activity%20B%20(ActivityA_B.kt).jpg)
 
 **Gambar 4.** Screen Activity C (ActivityC_D.kt)
-![Screen Activity C](evidence/4.%20Screen%20Activity%20C%20\(ActivityC_D.kt\).jpg)
+![Screen Activity C](evidence/4.%20Screen%20Activity%20C%20(ActivityC_D.kt).jpg)
 
 **Gambar 5.** Screen Activity D (ActivityC_D.kt)
-![Screen Activity D](evidence/5.%20Screen%20Activity%20D%20\(ActivityC_D.kt\).jpg)
+![Screen Activity D](evidence/5.%20Screen%20Activity%20D%20(ActivityC_D.kt).jpg)
 
 **Gambar 6.** Screen Stack Step 1 (BackStackScreens.kt)
-![Back Stack Step 1](evidence/6.%20Screen%20Stack%20Step%201%20\(BackStackScreens.kt\).jpg)
+![Back Stack Step 1](evidence/6.%20Screen%20Stack%20Step%201%20(BackStackScreens.kt).jpg)
 
 **Gambar 7.** Screen Stack Step 2 (BackStackScreens.kt)
-![Back Stack Step 2](evidence/7.%20Screen%20Stack%20Step%202%20\(BackStackScreens.kt\).jpg)
+![Back Stack Step 2](evidence/7.%20Screen%20Stack%20Step%202%20(BackStackScreens.kt).jpg)
 
 **Gambar 8.** Screen Stack Step 3 (BackStackScreens.kt)
-![Back Stack Step 3](evidence/8.%20Screen%20Stack%20Step%203%20\(BackStackScreens.kt\).jpg)
+![Back Stack Step 3](evidence/8.%20Screen%20Stack%20Step%203%20(BackStackScreens.kt).jpg)
 
 **Gambar 9.** Screen Dashboard Fragment (HubScreens.kt)
-![Dashboard Fragment](evidence/9.%20Screen%20Dasboard%20Fragment%20\(HubScreens.kt\).jpg)
+![Dashboard Fragment](evidence/9.%20Screen%20Dasboard%20Fragment%20(HubScreens.kt).jpg)
 
 **Gambar 10.** Screen Messages Fragment (HubScreens.kt)
-![Messages Fragment](evidence/10.%20Screen%20Messages%20Fragment%20\(HubScreens.kt\).jpg)
+![Messages Fragment](evidence/10.%20Screen%20Messages%20Fragment%20(HubScreens.kt).jpg)
 
 **Gambar 11.** Screen Message Detail (HubScreens.kt)
-![Message Detail](evidence/11.%20Screen%20Message%20Detail%20\(HubScreens.kt\).jpg)
+![Message Detail](evidence/11.%20Screen%20Message%20Detail%20(HubScreens.kt).jpg)
 
 **Gambar 12.** Screen Profile Fragment (HubScreens.kt)
-![Profile Fragment](evidence/12.%20Screen%20Profile%20Fragment%20\(HubScreens.kt\).jpg)
+![Profile Fragment](evidence/12.%20Screen%20Profile%20Fragment%20(HubScreens.kt).jpg)
 
 ---
 
